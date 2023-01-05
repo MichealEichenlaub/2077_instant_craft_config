@@ -6,7 +6,7 @@
   
   -To update this file, you can search for something you want to edit and change it in the file. 
   
-   We wil go over an example for changing the speed of upgrading perks. 
+   We wil go over an example for changing the speed of upgrading attributes. 
       
   -Open your "inputContexts.xml"  located in cyberpunk 2077 \ r6 \ config
   -Use ctrl+f to open the find menu
